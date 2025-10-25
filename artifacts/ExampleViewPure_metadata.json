@@ -1,0 +1,115 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "a",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "b",
+						"type": "uint256"
+					}
+				],
+				"name": "getAddition",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getMyStorageVariable",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myStorageVariable",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_newVar",
+						"type": "uint256"
+					}
+				],
+				"name": "setMyStorageVariable",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ExampleViewPure.sol": "ExampleViewPure"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ExampleViewPure.sol": {
+			"keccak256": "0xe0911913e5a6c1beb8a0dbaa38abf646489d5a45a1696c32689004e291b38cee",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://39a30f1dcf47c87d92beee0923123642032a54bc667053b070c08cc6f7b8497a",
+				"dweb:/ipfs/QmWxh2zH5zVdNMfTbm4S5NKrL7P8WQHSpqJnBC7XcDEEgX"
+			]
+		}
+	},
+	"version": 1
+}

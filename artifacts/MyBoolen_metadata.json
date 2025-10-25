@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "mybool",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "bool",
+						"name": "_setbool",
+						"type": "bool"
+					}
+				],
+				"name": "setBoolen",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ExampleBoolen.sol": "MyBoolen"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ExampleBoolen.sol": {
+			"keccak256": "0x61c2bb0249f488077eadeec867a9055b8009f6145c0cebe832e3fb2a716cc2b5",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://959cc88f0482118084ea134eeb3d969360c376c4b3e7d3a11d341cccceaa2134",
+				"dweb:/ipfs/QmYZqLsiGX7XQMzmLNLZs8HhML13Xk3wLsN3mnxbfAzyfi"
+			]
+		}
+	},
+	"version": 1
+}

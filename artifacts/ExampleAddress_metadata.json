@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getAddressBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "_someaddress",
+						"type": "address"
+					}
+				],
+				"name": "setSomeAddress",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "someAddress",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ExampleAddress.sol": "ExampleAddress"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ExampleAddress.sol": {
+			"keccak256": "0x958ddae15744f5ec2f7977bf43e24f6f52ec941a3b9f2b53d436d6c48438732f",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://a2d5650d0ab7854cc2112eba5e221c2f66b439b8ee9d128a49aef40901c8ba1e",
+				"dweb:/ipfs/Qmc8iJPEfdZjwxRCxuGg2LBH8hC1NhvjXsexMWEz8SaqSw"
+			]
+		}
+	},
+	"version": 1
+}
