@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/TheBlockchainMessenger.sol": "Name"
+			"contracts/TheBlockchainMessenger.sol": "TheBlockcha"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/TheBlockchainMessenger.sol": {
-			"keccak256": "0x871682c0cc0daec677022ad116ffd6bc1e0e28d627f4d92219827c9d51231265",
+			"keccak256": "0xd10d71b6e424ce9b10653687d031439cf727bded4af73c1557aa4ae2c84db4fc",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://c93d67c9a4a1bc5425acba485f9fb06f7383023e43b96596ece3bf6f4687066f",
-				"dweb:/ipfs/QmeWQvfR7KgNFjWiGqgte6sffpgRYJHFiHXnr3CoSrZM5e"
+				"bzz-raw://d9afc9b8784b3c879c6f803be677f2055c53449479ec2d92e26a1c84e4b56712",
+				"dweb:/ipfs/QmR96aRsjo3Pgw4gQk3EyQ4vL6U8BX57HHoiKZ43qWcSxx"
 			]
 		}
 	},
