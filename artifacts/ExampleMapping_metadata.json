@@ -4,113 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [
-					{
-						"internalType": "address",
-						"name": "",
-						"type": "address"
-					}
-				],
-				"name": "myAddressMapping",
-				"outputs": [
-					{
-						"internalType": "bool",
-						"name": "",
-						"type": "bool"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"name": "myMapping",
-				"outputs": [
-					{
-						"internalType": "bool",
-						"name": "",
-						"type": "bool"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "setMyAddressToTrue",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "_key1",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "_key2",
-						"type": "uint256"
-					},
-					{
-						"internalType": "bool",
-						"name": "_value",
-						"type": "bool"
-					}
-				],
-				"name": "setUintUintBoolMapping",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "_index",
-						"type": "uint256"
-					}
-				],
-				"name": "setValue",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					},
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"name": "uintUintBoolMapping",
-				"outputs": [
-					{
-						"internalType": "bool",
-						"name": "",
-						"type": "bool"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -124,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleMapping.sol": "ExampleMapping"
+			"contracts/ExampleMapping2.sol": "ExampleMapping"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -138,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleMapping.sol": {
-			"keccak256": "0x538adf012a23f3bf037cf3529ed5bd303786a59f65e8e85f482a6f0bcc106bfa",
+		"contracts/ExampleMapping2.sol": {
+			"keccak256": "0x65611ac9928f47020defa4565e110ec2938e3e4028f928fcea292055f144ee61",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://cd2ec65b92097dd11395e5dd206e5821cba109ab9c721c4488816f1e2ab3249e",
-				"dweb:/ipfs/QmZW5BqGKFxVb1VnWDBx54f6VCPTyH6qHSPb3yx1ZvHkTE"
+				"bzz-raw://7c7e2736ff43507a988444dff9d1e045f2cec4f0c8c5e239eb51a89709aad743",
+				"dweb:/ipfs/QmbGNouTdbhYAKsRrxLRzNc1ffVQDTv1ULhDoPRE9tZKfg"
 			]
 		}
 	},

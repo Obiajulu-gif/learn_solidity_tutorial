@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleConstructor.sol": "Exa"
+			"contracts/ExampleMapping2.sol": "Exa"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -32,7 +32,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleConstructor.sol": {
+		"contracts/ExampleMapping2.sol": {
 			"keccak256": "0xea1f02fd23bfefd66b3efe2d6676712dec95125522fb3e0d3e36bae2423b2073",
 			"license": "GPL-3.0",
 			"urls": [

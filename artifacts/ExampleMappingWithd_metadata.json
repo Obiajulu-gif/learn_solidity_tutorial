@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleMapping2.sol": "Name"
+			"contracts/ExampleMapping2.sol": "ExampleMappingWithd"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/ExampleMapping2.sol": {
-			"keccak256": "0x95ae696671398b105d35aeb69243e51db8c55cdf507f8ec8b3ec5192d828cb0f",
+			"keccak256": "0x790df4738acf1aa40d3e31e8895028a2b20f9976856c3e7e0fbbe195085d6bbe",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://4008fb301746dfeed8b91f8f9f73b78c12b9a07f82c924abc748802f1b825ba8",
-				"dweb:/ipfs/QmcESParhKL5zaVTKWrjmTBrqai11qR5WDqbBUhZuXnhNr"
+				"bzz-raw://6e57e02b0fd0bc27efdd53f8ffc6a99a864241d324be864967adb0e800d2eedd",
+				"dweb:/ipfs/Qme6fJsqyVrodtgjWY8ZCcyhr5YQy3TsFemopZ9ws3tGNy"
 			]
 		}
 	},
