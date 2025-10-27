@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/TheBlockchainMessenger.sol": "Name"
+			"contracts/ExampleMapping.sol": "Name"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/TheBlockchainMessenger.sol": {
-			"keccak256": "0x871682c0cc0daec677022ad116ffd6bc1e0e28d627f4d92219827c9d51231265",
+		"contracts/ExampleMapping.sol": {
+			"keccak256": "0x95ae696671398b105d35aeb69243e51db8c55cdf507f8ec8b3ec5192d828cb0f",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://c93d67c9a4a1bc5425acba485f9fb06f7383023e43b96596ece3bf6f4687066f",
-				"dweb:/ipfs/QmeWQvfR7KgNFjWiGqgte6sffpgRYJHFiHXnr3CoSrZM5e"
+				"bzz-raw://4008fb301746dfeed8b91f8f9f73b78c12b9a07f82c924abc748802f1b825ba8",
+				"dweb:/ipfs/QmcESParhKL5zaVTKWrjmTBrqai11qR5WDqbBUhZuXnhNr"
 			]
 		}
 	},
