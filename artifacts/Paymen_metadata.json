@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleContractCall.sol": "Name"
+			"contracts/ExampleStruct.sol": "Paymen"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleContractCall.sol": {
-			"keccak256": "0xe87f8671e29ed468295a80b51324d151b8c36bbc2ea5752d42ea952211507341",
-			"license": "MIT",
+		"contracts/ExampleStruct.sol": {
+			"keccak256": "0x44b80d71fe64e8948fc319acb1e36dba15704a4043143b8ea13067c34fba2dd0",
+			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://83970ae5faa385eb8f5e668d2c60a99632af74e4cc7a6db2a08cedb6de8e1c72",
-				"dweb:/ipfs/QmYv7itkSSCgCehHNs3hNTepW2x548q73Fke3Z3PfBqQCY"
+				"bzz-raw://fbe09addc90e4e1fc55e7e99f901a643e9ea94e38d65310db904ee016e272572",
+				"dweb:/ipfs/QmV41QwQEWqCoJF2SKCsdSaU5DPrbEK3HAZjJPoSpcTw1y"
 			]
 		}
 	},

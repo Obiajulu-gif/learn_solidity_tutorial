@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleContractCall.sol": "Name"
+			"contracts/ExampleSendTransfer1.sol": "Rec"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleContractCall.sol": {
-			"keccak256": "0xe87f8671e29ed468295a80b51324d151b8c36bbc2ea5752d42ea952211507341",
+		"contracts/ExampleSendTransfer1.sol": {
+			"keccak256": "0x98ca654619e8d237318903ca0925db5d4a9a888b70989a38cb421d3e499abcb3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://83970ae5faa385eb8f5e668d2c60a99632af74e4cc7a6db2a08cedb6de8e1c72",
-				"dweb:/ipfs/QmYv7itkSSCgCehHNs3hNTepW2x548q73Fke3Z3PfBqQCY"
+				"bzz-raw://45469219232c91b9fea10b5c77cb4733bf60840ce52ce817c29881b167e7c583",
+				"dweb:/ipfs/QmXDTKXicWXfvkJxDqd1T7RsuTXucLLVAfqvH5uajmCyEZ"
 			]
 		}
 	},

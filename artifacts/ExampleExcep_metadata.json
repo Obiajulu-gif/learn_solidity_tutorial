@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/ExampleContractCall.sol": "Name"
+			"contracts/ExampleExceptionRequire.sol": "ExampleExcep"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/ExampleContractCall.sol": {
-			"keccak256": "0xe87f8671e29ed468295a80b51324d151b8c36bbc2ea5752d42ea952211507341",
+		"contracts/ExampleExceptionRequire.sol": {
+			"keccak256": "0x94f9647716fffa13f8923ba61fa9f88dfdc1e5863ccbf940ffd20557ee55de79",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://83970ae5faa385eb8f5e668d2c60a99632af74e4cc7a6db2a08cedb6de8e1c72",
-				"dweb:/ipfs/QmYv7itkSSCgCehHNs3hNTepW2x548q73Fke3Z3PfBqQCY"
+				"bzz-raw://0dd08fc28dc94e3ebac83f50497196743e534418356ae25090d04e6b48d08322",
+				"dweb:/ipfs/QmYQsys3PuKVjELTH1fsHze6ayCxKMvtgkA2RaYfUA7uvV"
 			]
 		}
 	},
