@@ -1,18 +1,18 @@
 {
 	"compiler": {
-		"version": "0.8.30+commit.73712a01"
+		"version": "0.8.14+commit.80d49f37"
 	},
 	"language": "Solidity",
 	"output": {
 		"abi": [
 			{
 				"inputs": [],
-				"name": "ourstring",
+				"name": "myUint",
 				"outputs": [
 					{
-						"internalType": "string",
+						"internalType": "uint256",
 						"name": "",
-						"type": "string"
+						"type": "uint256"
 					}
 				],
 				"stateMutability": "view",
@@ -21,12 +21,12 @@
 			{
 				"inputs": [
 					{
-						"internalType": "string",
-						"name": "_updateString",
-						"type": "string"
+						"internalType": "uint256",
+						"name": "newUint",
+						"type": "uint256"
 					}
 				],
-				"name": "updateStringFunction",
+				"name": "setMyUint",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -45,9 +45,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/myContract.sol": "myContract"
+			"contracts/ExampleABI.sol": "MyContract"
 		},
-		"evmVersion": "prague",
+		"evmVersion": "london",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -59,12 +59,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/myContract.sol": {
-			"keccak256": "0x148d1582c5b2a0e2f9ab08eea85a0aed26312c50ce2fbac2e5df1b21fda917d2",
-			"license": "GPL-3.0",
+		"contracts/ExampleABI.sol": {
+			"keccak256": "0x3ba261c976733790ec0a032ce60523ae9dde4b3c8fa5eaf6cc2f0472b90af34e",
+			"license": "MIT",
 			"urls": [
-				"bzz-raw://a63d1738ade9ba1d5099715a82187bd8f67cdfc376800a3bb006043011f6a50d",
-				"dweb:/ipfs/Qmc3RfgDfdsN23sgpVCBrXvGX6azAFH3qZYoS9L3wLLFM3"
+				"bzz-raw://1ae5af641066445b4822297a117ed005cb2bc9da876860aba7cfcecbe421055a",
+				"dweb:/ipfs/QmTEKyNWHjwjSebVfW3r1wyBD2Ea9WTyovky6e5bgLpwJ5"
 			]
 		}
 	},
